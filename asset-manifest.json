@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Canteen-Management/static/css/main.ff51c147.chunk.css",
+    "main.js": "/Canteen-Management/static/js/main.c1903710.chunk.js",
+    "main.js.map": "/Canteen-Management/static/js/main.c1903710.chunk.js.map",
+    "runtime~main.js": "/Canteen-Management/static/js/runtime~main.e30128b1.js",
+    "runtime~main.js.map": "/Canteen-Management/static/js/runtime~main.e30128b1.js.map",
+    "static/js/2.e54e6696.chunk.js": "/Canteen-Management/static/js/2.e54e6696.chunk.js",
+    "static/js/2.e54e6696.chunk.js.map": "/Canteen-Management/static/js/2.e54e6696.chunk.js.map",
+    "static/js/3.730e5367.chunk.js": "/Canteen-Management/static/js/3.730e5367.chunk.js",
+    "static/js/3.730e5367.chunk.js.map": "/Canteen-Management/static/js/3.730e5367.chunk.js.map",
+    "index.html": "/Canteen-Management/index.html",
+    "precache-manifest.cfd135ac1d5c4d236c490159216e42ac.js": "/Canteen-Management/precache-manifest.cfd135ac1d5c4d236c490159216e42ac.js",
+    "service-worker.js": "/Canteen-Management/service-worker.js",
+    "static/css/main.ff51c147.chunk.css.map": "/Canteen-Management/static/css/main.ff51c147.chunk.css.map",
+    "static/media/burger.png": "/Canteen-Management/static/media/burger.abae6e19.png",
+    "static/media/chef.png": "/Canteen-Management/static/media/chef.5edac453.png",
+    "static/media/chefDual.png": "/Canteen-Management/static/media/chefDual.d99c3865.png",
+    "static/media/combo.png": "/Canteen-Management/static/media/combo.3cc2b1a3.png",
+    "static/media/noodles.png": "/Canteen-Management/static/media/noodles.df09abc1.png",
+    "static/media/pasta.png": "/Canteen-Management/static/media/pasta.802fd734.png"
+  }
+}
